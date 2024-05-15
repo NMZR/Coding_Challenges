@@ -1,7 +1,6 @@
-package ResponseInterviewQuestionJPMC;
+package Response;
 
 import java.util.*;
-import java.util.regex.*;
 import java.util.stream.Collectors;
 
 public class Response {
