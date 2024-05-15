@@ -1,4 +1,4 @@
-package GetMinLengthJPMC;
+package GetMinLength;
 
 import java.io.BufferedReader;
 import java.io.IOException;

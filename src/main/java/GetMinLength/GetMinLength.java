@@ -1,4 +1,4 @@
-package GetMinLengthJPMC;
+package GetMinLength;
 
 //To solve the problem described, you need to implement the getMinLength function.
 // The key is to iteratively remove the substrings "AB" or "BB"
